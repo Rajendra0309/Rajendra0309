@@ -15,15 +15,12 @@ Docker, CI/CD pipelines, and AWS.
 
 <br/>
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Rajendra0309&label=Profile%20Views&color=0e75b6&style=flat#gh-light-mode-only" 
-  />
-  <img 
-    src="https://komarev.com/ghpvc/?username=Rajendra0309&label=Profile%20Views&color=2ecc71&style=flat#gh-dark-mode-only" 
-  />
-</p>
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rajendra0309&label=Profile%20Views&color=0e75b6&style=flat#gh-light-mode-only)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajendra0309&label=Profile%20Views&color=2ecc71&style=flat#gh-dark-mode-only)
+
+</div>
 
 <br/>
 
@@ -89,20 +86,24 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajendra0309&show_icons=true&theme=default#gh-light-mode-only" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajendra0309&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rajendra0309&layout=compact&theme=default#gh-light-mode-only" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rajendra0309&layout=compact&theme=tokyonight#gh-dark-mode-only" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajendra0309&theme=default#gh-light-mode-only" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajendra0309&theme=tokyonight#gh-dark-mode-only" />
-</p>
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajendra0309&show_icons=true&theme=default#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajendra0309&show_icons=true&theme=tokyonight#gh-dark-mode-only)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rajendra0309&layout=compact&theme=default#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rajendra0309&layout=compact&theme=tokyonight#gh-dark-mode-only)
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajendra0309&theme=default#gh-light-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajendra0309&theme=tokyonight#gh-dark-mode-only)
+
+</div>
 
 <br/>
 
