@@ -81,22 +81,6 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
 
 <br/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajendra0309&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rajendra0309&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajendra0309&theme=tokyonight" />
-</p>
-
-<br/>
-
 <p align="center">
 <b>Build → Deploy → Automate → Repeat 🔁</b>
 </p>
